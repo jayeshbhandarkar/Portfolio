@@ -1176,3 +1176,7 @@ h1.heartbeat i {
   display: inline-block;
   animation: heartbeat 1s infinite;
 }
+
+img, .container {
+  max-width: 100%;
+}
