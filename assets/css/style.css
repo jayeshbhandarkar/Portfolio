@@ -1180,18 +1180,3 @@ h1.heartbeat i {
 img, .container {
   max-width: 100%;
 }
-
-@media screen and (max-width: 600px) {
-  .skills {
-    min-height: 75vh;
-    background: linear-gradient(to bottom, #fff, #fff);
-    padding: 3rem 9%; 
-    gap: 3rem;
-  }
-  .skills h2 {
-    color: #000;
-  }
-  .skills-img {
-    display:none;
-  }
-}
