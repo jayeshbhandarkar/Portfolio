@@ -124,7 +124,7 @@ header .navbar ul li a:hover {
 #menu {
   font-size: 3rem;
   cursor: pointer;
-  color: hsla(29, 100%, 51%, 0.758);
+  color: rgb(24, 2, 63);
   display: none;
 }
 @media (max-width: 768px) {
