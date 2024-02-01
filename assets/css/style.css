@@ -1198,8 +1198,6 @@ img, .container {
 
 @media (max-width: 768px) {
   .education .box-container .box img {
-    object-fit: cover;
-    position: relative;
     width: 800%;
     height: auto;
   }
