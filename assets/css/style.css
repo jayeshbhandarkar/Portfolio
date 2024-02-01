@@ -1188,7 +1188,7 @@ img, .container {
 }
 
 @media (max-width: 768px) {
-  .heartbeat {
+  h1.heartbeat i {
     font-size: 1.5rem;
     line-height: 1.2;
     padding: 0.5rem 0; 
