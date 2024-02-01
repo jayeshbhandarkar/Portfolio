@@ -1180,16 +1180,3 @@ h1.heartbeat i {
 img, .container {
   max-width: 100%;
 }
-
-
-@media (max-width: 768px) {
-  .home .image {
-    display: none;
-  }
-  .home .content h2 {
-    font-size: 2rem; 
-  }
-  .home .content h2 span {
-    font-size: 2rem;
-  }
-}
