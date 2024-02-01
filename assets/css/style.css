@@ -1192,5 +1192,6 @@ img, .container {
     font-size: 1.5rem;
     line-height: 1.2;
     padding: 0.5rem 0; 
+    text-align: left;
   }
 }
