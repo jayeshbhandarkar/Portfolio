@@ -1220,10 +1220,10 @@ img, .container {
     margin-bottom: 1rem;
   }
   .skills {
-    min-height: 58vh;
+    min-height: 65vh;
   }
   .skills h2 {
-    margin-bottom: 2.4rem;
+    margin-bottom: 2.5rem;
   }
 }
 
