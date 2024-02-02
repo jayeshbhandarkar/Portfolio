@@ -1228,6 +1228,9 @@ img, .container {
   .heading {
     margin-bottom: 3rem;
   }
+  form .button-area {
+    text-align: center;
+  }
 }
 
 @media (max-width: 768px) {
