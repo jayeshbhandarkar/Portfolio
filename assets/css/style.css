@@ -1189,7 +1189,7 @@ img, .container {
     min-height: 90vh;
   }
   .about .row .content h3, span {
-    align-items: center;
+    text-align: center;
   }
   .resumebtn {
     text-align: center;
