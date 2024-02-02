@@ -1231,9 +1231,6 @@ img, .container {
   .button-area {
     text-align: center;
   }
-}
-
-@media (max-width: 768px) {
   h1.heartbeat i {
     font-size: 21px;
     line-height: 1.2;
