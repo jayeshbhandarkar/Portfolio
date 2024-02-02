@@ -1229,7 +1229,7 @@ img, .container {
     margin-bottom: 3rem;
   }
   .button-area button {
-    margin: 0 auto;
+    justify-content: center;
   }
 }
 
