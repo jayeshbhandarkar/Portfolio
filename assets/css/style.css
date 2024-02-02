@@ -1191,6 +1191,9 @@ img, .container {
   .about .row .content h3, span {
     align-items: center;
   }
+  .resumebtn {
+    text-align: center;
+  }
 }
 
 @media (max-width: 768px) {
