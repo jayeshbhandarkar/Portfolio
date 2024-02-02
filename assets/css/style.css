@@ -1188,6 +1188,12 @@ img, .container {
   .home {
     min-height: 84vh; 
   }
+  .home .content h2 {
+    font-size: 2rem; 
+  }
+  .home .content h2 span {
+    font-size: 2rem;
+  }
 }
 
 @media (max-width: 768px) {
