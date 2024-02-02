@@ -1194,18 +1194,6 @@ img, .container {
   .home .content h2 span {
     font-size: 4.5rem;
   }
-  .loader-container {
-    position: fixed;
-    top: 0;
-    left: 0;
-    z-index: 10000;
-    background: #fff;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    height: 90%;
-    width: 90%;
-  }
 }
 
 @media (max-width: 768px) {
