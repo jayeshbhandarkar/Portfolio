@@ -1185,6 +1185,9 @@ img, .container {
   .home .image {
     display: none;
   }
+  .home {
+    min-height: 90vh; 
+  }
 }
 
 @media (max-width: 768px) {
