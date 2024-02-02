@@ -1208,6 +1208,17 @@ img, .container {
     width: 80%;
     height: auto;
   }
+  .skills-img {
+    display: none;
+  }
+  .light-bar,
+  .percent-bar {
+    height: 1.2rem;
+    border-radius: 1.5rem; 
+  }
+  .bars-box {
+    margin-bottom: 1rem;
+  }
 }
 
 @media (max-width: 768px) {
