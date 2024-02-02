@@ -1228,8 +1228,8 @@ img, .container {
   .heading {
     margin-bottom: 3rem;
   }
-  .button-area button {
-    justify-content: center;
+  .button-area {
+    text-align: center;
   }
 }
 
