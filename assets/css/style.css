@@ -1181,6 +1181,11 @@ img, .container {
   max-width: 100%;
 }
 
+.about .tag {
+  display: block; 
+  margin-top: 0.5rem;
+}
+
 @media (max-width: 768px) {
   .home .image {
     display: none;
@@ -1192,6 +1197,9 @@ img, .container {
     text-align: center;
   }
   .resumebtn {
+    text-align: center;
+  }
+  .about .tag {
     text-align: center;
   }
 }
