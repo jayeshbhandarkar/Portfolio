@@ -1222,6 +1222,9 @@ img, .container {
   .skills {
     min-height: 58vh;
   }
+  .skills h2 {
+    margin-bottom: 1.5rem;
+  }
 }
 
 @media (max-width: 768px) {
