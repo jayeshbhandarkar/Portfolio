@@ -1202,6 +1202,12 @@ img, .container {
   .about .tag {
     text-align: center;
   }
+  .education .box-container .box img {
+    object-fit: cover;
+    position: relative;
+    width: 80%;
+    height: auto;
+  }
 }
 
 @media (max-width: 768px) {
@@ -1210,14 +1216,5 @@ img, .container {
     line-height: 1.2;
     padding: 0.5rem 0; 
     text-align: left;
-  }
-}
-
-@media (max-width: 768px) {
-  .education .box-container .box img {
-    object-fit: cover;
-    position: relative;
-    width: 80%;
-    height: auto;
   }
 }
