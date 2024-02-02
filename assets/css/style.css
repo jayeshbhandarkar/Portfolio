@@ -1186,9 +1186,7 @@ img, .container {
     display: none;
   }
   .home {
-    min-height: 88vh; 
-    display: flex;
-    align-items: center;
+    min-height: 90vh;
   }
 }
 
