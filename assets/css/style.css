@@ -1189,10 +1189,10 @@ img, .container {
     min-height: 88vh; 
   }
   .home .content h2 {
-    font-size: 4rem; 
+    font-size: 4.5rem; 
   }
   .home .content h2 span {
-    font-size: 4rem;
+    font-size: 4.5rem;
   }
   .loader-container {
     position: fixed;
