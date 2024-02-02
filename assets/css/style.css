@@ -1188,7 +1188,7 @@ img, .container {
   .home {
     min-height: 90vh;
   }
-  .about .row .content {
+  .about .row .content h3, span {
     align-items: center;
   }
 }
