@@ -1185,18 +1185,6 @@ img, .container {
   .home .image {
     display: none;
   }
-  .home .content {
-    padding-top: 1rem; 
-  }
-  .home .content h2 {
-    margin-top: -1rem;
-  }
-  .socials .social-icons {
-    margin-bottom: -2rem;
-  }
-  .socials {
-    margin-top: 1rem;
-  }
 }
 
 @media (max-width: 768px) {
