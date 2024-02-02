@@ -1219,6 +1219,9 @@ img, .container {
   .bars-box {
     margin-bottom: 1rem;
   }
+  .skills {
+    min-height: 60vh;
+  }
 }
 
 @media (max-width: 768px) {
