@@ -1188,7 +1188,10 @@ img, .container {
   .home {
     min-height: 90vh;
   }
-  .about .row .content h3, span {
+  .about .row .content h3 {
+    text-align: center;
+  }
+  .about .row .content .tag {
     text-align: center;
   }
   .resumebtn {
