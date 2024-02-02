@@ -1228,7 +1228,7 @@ img, .container {
   .heading {
     margin-bottom: 3rem;
   }
-  form .button-area {
+  .button-area button {
     text-align: center;
   }
 }
