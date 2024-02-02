@@ -1194,6 +1194,9 @@ img, .container {
   .socials .social-icons {
     margin-bottom: -2rem;
   }
+  .socials {
+    margin-top: 1rem;
+  }
 }
 
 @media (max-width: 768px) {
