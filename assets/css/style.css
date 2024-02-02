@@ -1225,6 +1225,9 @@ img, .container {
   .skills h2 {
     margin-bottom: 3rem;
   }
+  .heading {
+    margin-bottom: 3rem;
+  }
 }
 
 @media (max-width: 768px) {
