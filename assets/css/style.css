@@ -829,7 +829,7 @@ form .message textarea::-webkit-scrollbar {
 }
 form .button-area {
   display: flex;
-  /*float: right;*/
+  float: right;
   flex-direction: row-reverse;
 }
 .button-area button {
