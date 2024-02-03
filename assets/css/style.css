@@ -1230,6 +1230,10 @@ img, .container {
   }
   form .button-area {
     text-align: center;
+    margin: 0 auto;
+  }
+  .button-area button {
+    width: 100%;
   }
   h1.heartbeat i {
     font-size: 21px;
