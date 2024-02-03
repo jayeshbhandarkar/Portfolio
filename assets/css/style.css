@@ -1228,7 +1228,7 @@ img, .container {
   .heading {
     margin-bottom: 3rem;
   }
-  .button-area {
+  form .button-area {
     text-align: center;
   }
   h1.heartbeat i {
