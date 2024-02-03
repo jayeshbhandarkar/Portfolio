@@ -1231,11 +1231,6 @@ img, .container {
   .button-area {
     text-align: center;
   }
-  .button-area span {
-    font-size: 17px;
-    padding: 1rem;
-    display: none; 
-  }
   h1.heartbeat i {
     font-size: 21px;
     line-height: 1.2;
