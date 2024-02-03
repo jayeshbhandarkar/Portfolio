@@ -829,7 +829,7 @@ form .message textarea::-webkit-scrollbar {
 }
 form .button-area {
   display: flex;
-  float: right;
+  /*float: right;*/
   flex-direction: row-reverse;
 }
 .button-area button {
@@ -1228,8 +1228,13 @@ img, .container {
   .heading {
     margin-bottom: 3rem;
   }
-  form .button-area {
+  .button-area {
     text-align: center;
+  }
+  .button-area span {
+    font-size: 17px;
+    padding: 1rem;
+    display: none; 
   }
   h1.heartbeat i {
     font-size: 21px;
