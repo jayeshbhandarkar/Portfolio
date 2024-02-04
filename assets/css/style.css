@@ -1235,7 +1235,10 @@ img, .container {
   .button-area button {
     /*width: 100%;*/
     text-align: center;
-    margin: 25px auto;
+    margin: auto;
+  }
+  .container {
+    margin: 0 auto; 
   }
   h1.heartbeat i {
     font-size: 21px;
