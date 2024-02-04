@@ -1235,7 +1235,7 @@ img, .container {
   .button-area button {
     /*width: 100%;*/
     margin-left: 50px;
-    margin-right: 75px;
+    margin-right: auto;
   }
   /*.contact .container {
     margin: 0 auto;
