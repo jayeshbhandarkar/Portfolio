@@ -1231,6 +1231,9 @@ img, .container {
     margin-left: 92px;
     margin-right: auto;
   }
+  .work-box {
+    height: 200px; 
+  }
   h1.heartbeat i {
     font-size: 21px;
     line-height: 1.2;
