@@ -1228,12 +1228,13 @@ img, .container {
   .heading {
     margin-bottom: 3rem;
   }
-  form .button-area {
+  /*form .button-area {
     text-align: center;
     margin: 0 auto;
-  }
+  }*/
   .button-area button {
-    width: 100%;
+    /*width: 100%;*/
+    text-align: center;
   }
   h1.heartbeat i {
     font-size: 21px;
