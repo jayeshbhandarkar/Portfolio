@@ -865,7 +865,7 @@ form .button-area {
   left: 8px;
 }
 
-@media (max-width: 900px) {
+@media (max-width: 768px) {
   .contact {
     min-height: 70vh;
   }
