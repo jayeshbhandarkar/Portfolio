@@ -1236,6 +1236,9 @@ img, .container {
     /*width: 100%;*/
     margin: auto;
   }
+  .contact .container {
+    margin: 0 auto;
+  }
   h1.heartbeat i {
     font-size: 21px;
     line-height: 1.2;
