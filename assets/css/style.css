@@ -1239,6 +1239,7 @@ img, .container {
   }
   .morebtn .btn {
     margin-left: 0;
+    width: 100%;
   }
   h1.heartbeat i {
     font-size: 21px;
