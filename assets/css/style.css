@@ -1235,7 +1235,7 @@ img, .container {
     height: 245px; 
   }
   .experience .timeline::after {
-    height: 150%;
+    height: 110%;
   }
   .morebtn .btn {
     width: 88%;
