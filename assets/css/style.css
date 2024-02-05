@@ -1237,6 +1237,9 @@ img, .container {
   .experience .timeline::after {
     height: 100%;
   }
+  .morebtn .btn {
+    text-align: left;
+  }
   h1.heartbeat i {
     font-size: 21px;
     line-height: 1.2;
