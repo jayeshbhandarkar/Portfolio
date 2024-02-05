@@ -1238,7 +1238,6 @@ img, .container {
     height: 100%;
   }
   .morebtn .btn {
-    position: absolute;
     left: 0;
     top: 0;
     margin: 1rem;
