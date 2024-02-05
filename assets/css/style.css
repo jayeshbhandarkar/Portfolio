@@ -1238,7 +1238,7 @@ img, .container {
     height: 100%;
   }
   .morebtn .btn {
-    text-align: left;
+    left: 0;
   }
   h1.heartbeat i {
     font-size: 21px;
