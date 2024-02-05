@@ -1235,11 +1235,11 @@ img, .container {
     height: 245px; 
   }
   .experience .timeline::after {
-    height: 110%;
+    height: 108%;
   }
   .morebtn .btn {
     width: 88%;
-    top: -5px;
+    top: -8px;
   }
   h1.heartbeat i {
     font-size: 21px;
