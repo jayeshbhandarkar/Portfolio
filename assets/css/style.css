@@ -172,6 +172,73 @@ header .navbar ul li a:hover {
   header .navbar.nav-toggle {
     right: 0;
   }
+  .work-box {
+    max-width: 200px;
+  }
+  .work-box img {
+    max-width: 100px;
+  }
+  .home .image {
+    display: none;
+  }
+  .home {
+    min-height: 90vh;
+  }
+  .about .row .content h3 {
+    text-align: center;
+  }
+  .resumebtn {
+    text-align: center;
+  }
+  .about .tag {
+    text-align: center;
+  }
+  .education .box-container .box img {
+    object-fit: cover;
+    position: relative;
+    width: 80%;
+    height: auto;
+  }
+  .skills-img {
+    display: none;
+  }
+  .light-bar,
+  .percent-bar {
+    height: 1.2rem;
+    border-radius: 1.5rem; 
+  }
+  .bars-box {
+    margin-bottom: 1rem;
+  }
+  .skills {
+    min-height: 65vh;
+  }
+  .skills h2 {
+    margin-bottom: 3rem;
+  }
+  .heading {
+    margin-bottom: 3rem;
+  }
+  .button-area button {
+    margin-left: 92px;
+    margin-right: auto;
+  }
+  .work-box {
+    height: 245px; 
+  }
+  .experience .timeline::after {
+    height: 102%;
+  }
+  .morebtn .btn {
+    width: 88%;
+    top: -17px;
+  }
+  h1.heartbeat i {
+    font-size: 21px;
+    line-height: 1.2;
+    padding: 0.5rem 0; 
+    text-align: left;
+  }
 }
 
 .home {
@@ -1129,15 +1196,6 @@ form .button-area {
   height: 100px;
 }
 
-@media (max-width: 768px) {
-  .work-box {
-    max-width: 200px;
-  }
-  .work-box img {
-    max-width: 100px;
-  }
-}
-
 .owl-carousel .owl-dots button {
   margin-top: 22px;
   margin-bottom: 2px;
@@ -1183,68 +1241,4 @@ img, .container {
 .about .tag {
   display: block; 
   margin-top: 0.5rem;
-}
-
-@media (max-width: 768px) {
-  .home .image {
-    display: none;
-  }
-  .home {
-    min-height: 90vh;
-  }
-  .about .row .content h3 {
-    text-align: center;
-  }
-  .resumebtn {
-    text-align: center;
-  }
-  .about .tag {
-    text-align: center;
-  }
-  .education .box-container .box img {
-    object-fit: cover;
-    position: relative;
-    width: 80%;
-    height: auto;
-  }
-  .skills-img {
-    display: none;
-  }
-  .light-bar,
-  .percent-bar {
-    height: 1.2rem;
-    border-radius: 1.5rem; 
-  }
-  .bars-box {
-    margin-bottom: 1rem;
-  }
-  .skills {
-    min-height: 65vh;
-  }
-  .skills h2 {
-    margin-bottom: 3rem;
-  }
-  .heading {
-    margin-bottom: 3rem;
-  }
-  .button-area button {
-    margin-left: 92px;
-    margin-right: auto;
-  }
-  .work-box {
-    height: 245px; 
-  }
-  .experience .timeline::after {
-    height: 102%;
-  }
-  .morebtn .btn {
-    width: 88%;
-    top: -17px;
-  }
-  h1.heartbeat i {
-    font-size: 21px;
-    line-height: 1.2;
-    padding: 0.5rem 0; 
-    text-align: left;
-  }
 }
